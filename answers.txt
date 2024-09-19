@@ -1,0 +1,3 @@
+Q2: What field could data science be applied to? Give and Example and how it might help
+
+Answer: Data science could be applied to the financial sector. There is more data today about financial markets than there has ever been before. Data science can help address this large collection of data and make into novel predictions about the future of certain companies. 
