@@ -1,0 +1,3 @@
+Q1: Why might be consider using git?
+
+Answer: We would consider using git because it helps handle source control between multiple people. If there is a team working on a project, multiple people can contribute to the project without interfering with each other's changes. Also git is useful to keep track of what changes have been made to a project. 
