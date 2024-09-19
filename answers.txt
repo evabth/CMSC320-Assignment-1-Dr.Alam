@@ -5,5 +5,11 @@ Answer: We would consider using git because it helps handle source control betwe
 
 Q2: What field could data science be applied to? Give and Example and how it might help
 
-Answer: Data science could be applied to the financial sector. There is more data today about financial markets than there has ever been before. Data science can help address this large collection of data and make into novel predictions about the future of certain companies. 
+Answer: Data science could be applied to the financial sector. There is more data today about financial markets than there has ever been before. Data science can help address this large collection of data and make into novel predictions about the future of certain companies.
+
+Q3: What is the difference between merging and rebasing?
+
+Answer: Merging combines two branches into a single branch. Their commit histories are kept the intact. Rebasing moves the commits of the source branch to the target branch, with changes in the sources branch appearing as if they were made in the target branch.
+
+
 
